@@ -82,18 +82,7 @@ if(isset($_POST["name"]) && $_POST["name"] != "")
 	</script>
 	
 </head>
-<!-- Piwik --> 
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://typeserve.com/2analytics/" : "http://typeserve.com/2analytics/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 6);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://typeserve.com/2analytics/piwik.php?idsite=6" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
+
 
 
 <!--[if IE 7 ]>    <body class="ie7 ie"> <![endif]--> 
@@ -181,8 +170,9 @@ piwikTracker.enableLinkTracking();
 					</form>
 					
 				</div>
-				
-			</div><!-- end main -->
+			  <div class="separator"></div>
+                
+            <div class="coupon"><h3 align="center">Click to print.</h3><a href="javascript:window.print();"><img src="images/STCoupon.png" width="401" height="273"> </a></div></div><!-- end main -->
 							
 			<div class="sidebar content">
 
@@ -193,7 +183,10 @@ piwikTracker.enableLinkTracking();
 				<div class="separator clear"></div>
 
 				
-				<div class="module">
+				<div class="module"><h3>General Information</h3>
+					<p>Address: 196 Clint Dr. Pickerington, OH 43147<br>
+Phone: 614-866-3813<br>
+Fax: 614-866-4959</p>
 					<h3>Easy to find</h3>
 
 					<ol>
@@ -205,10 +198,17 @@ piwikTracker.enableLinkTracking();
 				
 				<div class="separator clear"></div>
 				
-				<div class="module"><h3>General Information</h3>
-					<p>Address: 196 Clint Dr. Pickerington, OH 43147<br>
-Phone: 614-866-3813<br>
-Fax: 614-866-4959</p>
+				<div class="module"><h3>Our Hours</h3>
+					<p><div style="font-weight:bold">Monday - Closed</div>
+<p><div style="font-weight:bold">Tuesday - Saturday</div><br>
+Lunch  11:30pm - 2:30pm<br><br>
+Dinner  4:30pm - 10:00pm<br>
+</p>
+<p><div style="font-weight:bold">Sunday</div><br>
+Lunch 11:30pm - 2:30pm<br><br>
+Dinner 4:00pm - 10:00pm<br>
+ 
+<h3></h3>
 				</div>
 
 				
@@ -229,6 +229,17 @@ Business Phone: <strong>614-866-3813</strong>
 			
 			<div class="right content">
 				<div class="separator"></div>
+                	<p><h3>Lets get social!</h3></p>
+                    <p><table width="100%" border="0">
+  <tr>
+    <td><a href="http://www.yelp.com/biz/sushi-thai-pickerington" target="new"><img src="images/social/yelp.png" width="50" height="50" alt="Yelp"></a>
+</td>
+    <td><a href="http://4sq.com/JOGJfY" target="new"><img src="images/social/foursquare_checkin.png" width="50" height="50" alt="4Square"></a></td>
+    <td><a href="https://www.facebook.com/Sushithaiohio" target="new"><img src="images/social/facebook button-logo.png" width="50" height="50" alt="Facebook"></a></td>
+  </tr>
+</table>
+</p>                            
+ </p>
 				
 				<div class="small carte-footer">
 					<form action="#" method="post" id="search-form">
@@ -335,6 +346,17 @@ Business Phone: <strong>614-866-3813</strong>
 		});
 	});
 	</script>
-
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://typeserve.com/2analytics/" : "http://typeserve.com/2analytics/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 6);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://typeserve.com/2analytics/piwik.php?idsite=6" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
 </body>
 </html>
