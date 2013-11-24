@@ -281,14 +281,11 @@ Business Phone: <strong>614-866-3813</strong>
 			<div id="footer-info">
 				<div class="wrap relative">
 					
-					<div class="footer-left left">
-							
-						
-			
+					<div class="footer-left left">		
 					</div>
 										
 					<div class="footer-right right">
-						<p>Made by <a href="http://www.typeserve.com">Typeserve Websolutions Group, Dublin, OH. 2012</a>.<br />
+						<p>Made by <a href="http://www.typeserve.com">Typeserve Websolutions Group, Dublin, OH. 2012</a>.
 
 						</p>
 					</div>
