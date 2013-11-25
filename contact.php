@@ -205,8 +205,7 @@ Lunch  11:30pm - 2:30pm<br><br>
 Dinner  4:30pm - 10:00pm<br>
 </p>
 <p><div style="font-weight:bold">Sunday</div><br>
-Lunch 11:30pm - 2:30pm<br><br>
-Dinner 4:00pm - 10:00pm<br>
+4:00pm - 10:00pm<br>
  
 <h3></h3>
 				</div>
@@ -239,7 +238,7 @@ Business Phone: <strong>614-866-3813</strong>
   </tr>
 </table>
 </p>                            
- </p>
+
 				
 				<div class="small carte-footer">
 					<form action="#" method="post" id="search-form">
